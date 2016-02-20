@@ -3,7 +3,7 @@ app_job:
     defaults: { _controller: "AppJoboardBundle:Job:index" }
 
 app_job_show:
-    path:     /{id}/show
+    pattern:  /{company}/{location}/{id}/{position}/
     defaults: { _controller: "AppJoboardBundle:Job:show" }
 
 app_job_new:
