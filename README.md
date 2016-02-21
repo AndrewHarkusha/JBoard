@@ -1,4 +1,4 @@
-Symfony Standard Edition
+Symfony Standard Edition! [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/AndrewHarkusha/JBoard/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/AndrewHarkusha/JBoard/?branch=master)
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
