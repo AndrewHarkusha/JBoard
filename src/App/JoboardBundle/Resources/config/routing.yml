@@ -5,3 +5,7 @@ app_joboard_app_job:
 app_joboard_homepage:
     pattern:  /
     defaults: { _controller: AppJoboardBundle:Job:index }
+
+AppJoboardBundle_category:
+    pattern:   /category/{slug}/
+    defaults: { _controller: AppJoboardBundle:Category:show }
